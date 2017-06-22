@@ -1,0 +1,20 @@
+body {
+	background-image: url("fant.png");
+}
+
+h1 {
+	color: #DC143C;
+	font-family: "Times New Roman", Georgia, Serif;;
+
+}
+
+p {
+	position: absolute;
+    left: 0;
+    top: 20%;
+    width: 30%;
+    text-align: center;
+    font-size: 18px;
+}
+
+
